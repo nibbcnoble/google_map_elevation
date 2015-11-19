@@ -1,6 +1,7 @@
 
 body {
     background-color:#000;
+    overflow:hidden;
 }
 #mapcanvas {
     margin-top:100px;

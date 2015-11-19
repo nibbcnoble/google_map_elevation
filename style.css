@@ -1,0 +1,9 @@
+
+body {
+    background-color:#000;
+}
+#mapcanvas {
+    margin-top:100px;
+    height:400px;
+    background-color:#444;
+}
